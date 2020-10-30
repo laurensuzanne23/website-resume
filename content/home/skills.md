@@ -8,6 +8,12 @@ weight = 30  # Order that this section will appear.
 title = "Skills"
 subtitle = ""
 
+  {{< youtube A8-bVVtipPU >}}
+
+  {{< youtube aG8fvEQhV6c >}}
+
+  {{< youtube JVRG14FOMB4 >}}
+
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
