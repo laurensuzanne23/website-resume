@@ -14,10 +14,10 @@ subtitle = ""
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
-Lauren is excellent. {{< youtube A8-bVVtipPU >}}
-
-# {{< youtube aG8fvEQhV6c >}}
-
-# {{< youtube JVRG14FOMB4 >}}
-
 +++
+
+{{< youtube A8-bVVtipPU >}}
+
+{{< youtube aG8fvEQhV6c >}}
+
+{{< youtube JVRG14FOMB4 >}}
