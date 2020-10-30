@@ -6,7 +6,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-social: []
+social:
 organizations:
   - name: Stanford Online High School / Oregon High School
     url: ""
