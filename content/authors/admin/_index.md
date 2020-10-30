@@ -1,27 +1,14 @@
 ---
 title: Lauren Stoneman
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Brilliant Student, Fantastic Actress, Incredible Sister
+bio: My research interests include being awesome.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+social: []
 organizations:
-  - name: Stanford University
+  - name: Stanford Online High School / Oregon High School
     url: ""
 education:
   courses:
