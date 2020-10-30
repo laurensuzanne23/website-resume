@@ -5,18 +5,14 @@
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Documentaries"
 subtitle = ""
 
 [content]
-  {{< youtube A8-bVVtipPU >}}
 
-  {{< youtube aG8fvEQhV6c >}}
-
-  {{< youtube JVRG14FOMB4 >}}
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
