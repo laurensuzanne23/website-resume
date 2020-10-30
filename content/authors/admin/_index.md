@@ -10,7 +10,7 @@ social:
 organizations:
   - name: Stanford Online High School / Oregon High School
     url: ""
-education:
+credits:
   courses:
     - course: "Yvette / Clue: Stay-at-Home"
       institution: Oregon High School
