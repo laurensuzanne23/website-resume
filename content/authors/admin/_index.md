@@ -12,7 +12,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: Yvette—Clue: Stay-at-Home
+    - course: "Yvette—Clue: Stay-at-Home"
       institution: Oregon High School
       year: 2020
     - course: MEng in Artificial Intelligence
