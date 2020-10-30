@@ -25,9 +25,9 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Yvette—Clue: Stay-at-Home
+      institution: Oregon High School
+      year: 2020
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
