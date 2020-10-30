@@ -1,7 +1,4 @@
 +++
-# A "Meet the Team" section created with the People widget.
-# This section displays people from `content/authors/` which belong to the `user_groups` below.
-
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -16,8 +13,11 @@ subtitle = ""
 
 +++
 
+## A Peace to End All Peace
 {{< youtube A8-bVVtipPU >}}
 
+## The Munich Agreement
 {{< youtube aG8fvEQhV6c >}}
 
+## The Miracle on Ice
 {{< youtube JVRG14FOMB4 >}}
