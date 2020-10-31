@@ -10,15 +10,19 @@ weight = 60  # Order that this section will appear.
 title = "Painting Portfolio"
 subtitle = ""
 
-gallery_item:
-- album: gallery
-  image: DSC_0278.jpg
-  caption: ""
-- album: gallery
-  image: DSC_0441.jpg
-  caption: ""
-- album: gallery
-  image: IMG_4917.jpg
-  caption: ""
+[[gallery_item]]
+  album = gallery
+  image = DSC_0278.jpg
+  caption = ""
+
+[[gallery_item]]
+  album = gallery
+  image = DSC_0441.jpg
+  caption = ""
+
+[[gallery_item]]
+  album = gallery
+  image = IMG_4917.jpg
+  caption = ""
 +++
 {{< gallery >}}
