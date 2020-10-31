@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Theater Credits"
-  date_start = ""
+  date_start = "Jan 2006"
   description = """
   Clue: Stay-At-Home (2020)		Yvette				Oregon High School
 Sweeney Todd (2020)			Johanna				Oregon Straw Hat Players
@@ -44,7 +44,7 @@ H.M.S. Pinafore (2014)			Josephine			Shorewood Summer Drama
 
 [[item]]
   title = "Training"
-  date_start = ""
+  date_start = "Jan 2006"
   description = """
   
   - Acting: CTM Actor’s Academy – Advanced Training Program (Academy Director Roseann Sheridan) 2017-18 and 2018-19
@@ -58,7 +58,7 @@ H.M.S. Pinafore (2014)			Josephine			Shorewood Summer Drama
   
 [[item]]
   title = "Camps/Internships"
-  date_start = ""
+  date_start = "Jan 2006"
   description = """
 
 - Children’s Theater of Madison Summer Stage (2016, 2017)
@@ -70,7 +70,7 @@ H.M.S. Pinafore (2014)			Josephine			Shorewood Summer Drama
   
 [[item]]
   title = "Awards"
-  date_start = ""
+  date_start = "Jan 2006"
   description = """
 - Wisconsin School Music Association State Solo and Ensemble Festival (2017, 2018, 2019)
 
