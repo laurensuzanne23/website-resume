@@ -11,18 +11,18 @@ title = "Painting Portfolio"
 subtitle = ""
 
 [[gallery_item]]
-  album = gallery
-  image = DSC_0278.jpg
+  album = "images"
+  image = "DSC_0278.jpg"
   caption = ""
 
 [[gallery_item]]
-  album = gallery
-  image = DSC_0441.jpg
+  album = "images"
+  image = "DSC_0441.jpg"
   caption = ""
 
 [[gallery_item]]
-  album = gallery
-  image = IMG_4917.jpg
+  album = "images"
+  image = "IMG_4917.jpg"
   caption = ""
 +++
 {{< gallery >}}
