@@ -7,8 +7,18 @@
   name = "About"
   url = "#about"
   weight = 10
+  
+[[main]]
+  name = "Theater"
+  url = "#theater"
+  weight = 20
+  
+[[main]]
+  name = "Painting"
+  url = "#painting"
+  weight = 30
 
 [[main]]
   name = "Documentaries"
   url = "#documentaries"
-  weight = 20
+  weight = 40
