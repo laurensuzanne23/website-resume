@@ -1,7 +1,7 @@
 ---
 title: Lauren Stoneman
 avatar_filename: dsc_0120.jpeg
-bio: laurensuzanne23@gmail.com
+role: laurensuzanne23@gmail.com
 
 email: "laurensuzanne23@gmail.com"
 superuser: true
