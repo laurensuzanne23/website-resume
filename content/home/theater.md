@@ -20,6 +20,7 @@ date_format = "01/02/06"
 
 [[item]]
   title = "Theater Credits"
+  organization = "organization"
   date_start = "01/02/06"
   description = """
   Clue: Stay-At-Home (2020)		Yvette				Oregon High School
@@ -44,6 +45,7 @@ H.M.S. Pinafore (2014)			Josephine			Shorewood Summer Drama
 
 [[item]]
   title = "Training"
+  organization = "organization"
   date_start = "01/02/06"
   description = """
   
@@ -58,6 +60,7 @@ H.M.S. Pinafore (2014)			Josephine			Shorewood Summer Drama
   
 [[item]]
   title = "Camps/Internships"
+  organization = "organization"
   date_start = "01/02/06"
   description = """
 
@@ -70,6 +73,7 @@ H.M.S. Pinafore (2014)			Josephine			Shorewood Summer Drama
   
 [[item]]
   title = "Awards"
+  organization = "organization"
   date_start = "01/02/06"
   description = """
 - Wisconsin School Music Association State Solo and Ensemble Festival (2017, 2018, 2019)
