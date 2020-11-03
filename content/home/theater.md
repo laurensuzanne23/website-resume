@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2016"
+date_format = "Jan 02 2016"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -21,7 +21,6 @@ date_format = "2016"
 [[item]]
   title = "Theater Credits"
   date_start = "2014-01-01"
-  date_end = "2020-01-01"
   description = """
   
   - Clue: Stay-At-Home (2020)		Yvette				Oregon High School
