@@ -20,7 +20,6 @@ date_format = "01/02/06"
 
 [[item]]
   title = "Theater Credits"
-  date_start = "2016-06-01"
   description = """
   
   - Clue: Stay-At-Home (2020)		Yvette				Oregon High School
