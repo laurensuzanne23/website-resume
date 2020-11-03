@@ -57,7 +57,6 @@ date_format = "01/02/06"
 
 [[item]]
   title = "Training"
-  organization = "organization"
   date_start = "2016-06-01"
   description = """
   
