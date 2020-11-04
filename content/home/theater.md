@@ -23,7 +23,7 @@ date_format = "January 2, 2006"
   date_start = "2014-01-01"
   description = """
   
-  - Clue: Stay-At-Home (2020)		Yvette				Oregon High School
+  - Clue: Stay-At-Home (2020) // Yvette // Oregon High School
 
 - Sweeney Todd (2020)			Johanna				Oregon Straw Hat Players
 
@@ -82,7 +82,7 @@ date_format = "January 2, 2006"
   
 [[item]]
   title = "Awards"
-  date_start = "2016-04-01"
+  date_start = "2014-04-01"
   description = """
 - Wisconsin School Music Association State Solo and Ensemble Festival (2017, 2018, 2019)
 
