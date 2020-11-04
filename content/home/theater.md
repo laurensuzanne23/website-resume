@@ -20,43 +20,43 @@ date_format = "January 2, 2006"
 
 [[item]]
   title = "Theater Credits"
-  date_start = "2014-01-01"
+  date_start = "2014-04-04"
   description = """
   
   - Clue: Stay-At-Home (2020) // Yvette // Oregon High School
 
-- Sweeney Todd (2020)			Johanna				Oregon Straw Hat Players
+- Sweeney Todd (2020) // Johanna // Oregon Straw Hat Players
 
-- Guys and Dolls (2019)			Sarah Brown			Oregon High School
+- Guys and Dolls (2019) // Sarah Brown // Oregon High School
 
-- A Christmas Carol (2018)			Belinda Cratchit, Fezziwig Daughter, Caroler			Children’s Theater of Madison (CTM)
+- A Christmas Carol (2018) //	Belinda Cratchit, Fezziwig Daughter, Caroler	//	Children’s Theater of Madison (CTM)
 
-- The Wizard of Oz (2018)			Lead Jitterbug Dancer/Soloist	Oregon High School
+- The Wizard of Oz (2018)	//	Lead Jitterbug Dancer/Soloist //	Oregon High School
 
-- Hairspray (2018)				Featured Dancer			Verona Area Community Theater (VACT)
+- Hairspray (2018)		//	Featured Dancer		//	Verona Area Community Theater (VACT)
 
-- A Christmas Carol (2017)			Jane Cratchit, Caroler		CTM (Dir. James Ridge)
+- A Christmas Carol (2017)	//		Jane Cratchit, Caroler	//	CTM (Dir. James Ridge)
 
-- The Wizard of Oz (2017)			Dorothy				EAGLE School of Madison
+- The Wizard of Oz (2017)		//	Dorothy			//	EAGLE School of Madison
 
-- Seussical (2017)				Bird Girl			CTM (Dir. Brian Cowing)
+- Seussical (2017)	//			Bird Girl		//	CTM (Dir. Brian Cowing)
 
-- Fiddler on the Roof (2016)			Hodel				CTM
+- Fiddler on the Roof (2016)		//	Hodel		//		CTM
 
-- Fiddler on the Roof (2016)			Hodel				EAGLE School of Madison
+- Fiddler on the Roof (2016)	//		Hodel		//		EAGLE School of Madison
 
-- Elf, Jr. The Musical (2015)			Jovie				VACT
+- Elf, Jr. The Musical (2015)		//	Jovie		//		VACT
 
-- The Pirates of Penzance (2015)		Mabel				Shorewood Summer Drama
+- The Pirates of Penzance (2015)	//	Mabel		//		Shorewood Summer Drama
 
-- High School Musical (2015)		Gabriella			EAGLE School of Madison
+- High School Musical (2015)	//	Gabriella		//	EAGLE School of Madison
 
-- H.M.S. Pinafore (2014)			Josephine			Shorewood Summer Drama
+- H.M.S. Pinafore (2014)	//		Josephine	//		Shorewood Summer Drama
   """
 
 [[item]]
   title = "Training"
-  date_start = "2014-06-01"
+  date_start = "2014-04-03"
   description = """
   
   - Acting: CTM Actor’s Academy – Advanced Training Program (Academy Director Roseann Sheridan) 2017-18 and 2018-19
@@ -70,7 +70,7 @@ date_format = "January 2, 2006"
   
 [[item]]
   title = "Camps/Internships"
-  date_start = "2014-06-01"
+  date_start = "2014-04-02"
   description = """
 
 - Children’s Theater of Madison Summer Stage (2016, 2017)
