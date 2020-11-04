@@ -10,5 +10,11 @@ weight = 60  # Order that this section will appear.
 title = "Painting"
 subtitle = ""
 
+[[gallery_item]]
+  album = "1"
+  image = IMG_4917.jpg
+  caption = "art"
+
 +++
 
+{{< gallery >}}
