@@ -16,11 +16,11 @@ subtitle = ""
 
 [[gallery_item]]
   album = "1"
-  image = "IMG_4917.jpg"
+  image = "DSC_0278.jpg"
 
 [[gallery_item]]
   album = "1"
-  image = "IMG_4917.jpg"
+  image = "DSC_0441.jpg"
 
 +++
 
