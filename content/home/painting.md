@@ -17,4 +17,4 @@ subtitle = ""
 
 +++
 
-{{< gallery >}}
+{{< gallery album="1" >}}
