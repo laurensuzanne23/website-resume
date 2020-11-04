@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 02 2016"
+date_format = "Jan 02, 2016"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -56,7 +56,7 @@ date_format = "Jan 02 2016"
 
 [[item]]
   title = "Training"
-  date_start = "2016-06-01"
+  date_start = "2014-06-01"
   description = """
   
   - Acting: CTM Actor’s Academy – Advanced Training Program (Academy Director Roseann Sheridan) 2017-18 and 2018-19
@@ -70,8 +70,7 @@ date_format = "Jan 02 2016"
   
 [[item]]
   title = "Camps/Internships"
-  organization = "organization"
-  date_start = "2016-06-01"
+  date_start = "2014-06-01"
   description = """
 
 - Children’s Theater of Madison Summer Stage (2016, 2017)
@@ -83,8 +82,7 @@ date_format = "Jan 02 2016"
   
 [[item]]
   title = "Awards"
-  organization = "organization"
-  date_start = "2016-06-01"
+  date_start = "2016-04-01"
   description = """
 - Wisconsin School Music Association State Solo and Ensemble Festival (2017, 2018, 2019)
 
