@@ -12,7 +12,7 @@ subtitle = ""
 
 [[gallery_item]]
   album = "1"
-  image = IMG_4917.jpg
+  image = "IMG_4917.jpg"
   caption = "art"
 
 +++
