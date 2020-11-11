@@ -22,10 +22,6 @@ subtitle = ""
   album = "1"
   image = "images/DSC_0441.jpg"
 
-[[gallery_item]]
-  album = "1"
-  image = "images/unnamed-4.jpg"
-
 
 +++
 
