@@ -84,13 +84,15 @@ date_format = "January 2, 2006"
   title = "Awards"
   date_start = "2014-04-01"
   description = """
+
+- National History Day: 4th place National documentary (2015), 2nd place (2016), 8th place (2019)
+
 - Wisconsin School Music Association State Solo and Ensemble Festival (2017, 2018, 2019)
 
 - 1st Place Musical Theater Solo, 1st Place Soprano Solo (Regional), 1st Place Musical Theater Solo and Exemplary Performance Nominee (State), 1st Place Soprano Solo (State)
 
 - Scholastic Art Awards: 8 Honorable mentions and 4 Silver Keys (2017-20)
 
-- National History Day: 4th place National (2015), 2nd place (2016), 8th place (2019)
   """
 
 +++
