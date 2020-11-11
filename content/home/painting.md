@@ -12,15 +12,35 @@ subtitle = ""
 
 [[gallery_item]]
   album = "1"
-  image = "images/IMG_4917.jpg"
+  image = "IMG_4917.jpg"
 
 [[gallery_item]]
   album = "1"
-  image = "images/DSC_0278.jpg"
+  image = "DSC_0278.jpg"
 
 [[gallery_item]]
   album = "1"
-  image = "images/DSC_0441.jpg"
+  image = "DSC_0441.jpg"
+  
+[[gallery_item]]
+  album = "1"
+  image = "unnamed-4.jpg"
+  
+[[gallery_item]]
+  album = "1"
+  image = "unnamed-5.jpg"
+
+[[gallery_item]]
+  album = "1"
+  image = "unnamed-6.jpg"
+
+[[gallery_item]]
+  album = "1"
+  image = "unnamed-7.jpg"
+
+[[gallery_item]]
+  album = "1"
+  image = "unnamed-8.jpg"
 
 
 +++
