@@ -11,38 +11,38 @@ title = "Painting"
 subtitle = ""
 
 [[gallery_item]]
-  album = "1"
+  album = "images"
   image = "IMG_4917.jpg"
 
 [[gallery_item]]
-  album = "1"
+  album = "images"
   image = "DSC_0278.jpg"
 
 [[gallery_item]]
-  album = "1"
+  album = "images"
   image = "DSC_0441.jpg"
   
 [[gallery_item]]
-  album = "1"
+  album = "images"
   image = "unnamed-4.jpg"
   
 [[gallery_item]]
-  album = "1"
+  album = "images"
   image = "unnamed-5.jpg"
 
 [[gallery_item]]
-  album = "1"
+  album = "images"
   image = "unnamed-6.jpg"
 
 [[gallery_item]]
-  album = "1"
+  album = "images"
   image = "unnamed-7.jpg"
 
 [[gallery_item]]
-  album = "1"
+  album = "images"
   image = "unnamed-8.jpg"
 
 
 +++
 
-{{< gallery album="1" >}}
+{{< gallery album="images" >}}
