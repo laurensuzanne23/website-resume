@@ -26,21 +26,7 @@ subtitle = ""
   album = "1"
   image = "images/unnamed-4.jpg"
 
-[[gallery_item]]
-  album = "1"
-  image = "images/unnamed-5.jpg"
 
-[[gallery_item]]
-  album = "1"
-  image = "images/unnamed-6.jpg"
-
-[[gallery_item]]
-  album = "1"
-  image = "images/unnamed-7.jpg"
-
-[[gallery_item]]
-  album = "1"
-  image = "images/unnamed-8.jpg"
 +++
 
 {{< gallery album="1" >}}
