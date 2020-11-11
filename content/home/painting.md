@@ -17,18 +17,14 @@ subtitle = ""
 [[gallery_item]]
   album = "images"
   image = "DSC_0278.jpg"
-
-[[gallery_item]]
-  album = "images"
-  image = "DSC_0441.jpg"
-  
-[[gallery_item]]
-  album = "images"
-  image = "unnamed-4.jpg"
   
 [[gallery_item]]
   album = "images"
   image = "unnamed-5.jpg"
+  
+[[gallery_item]]
+  album = "images"
+  image = "unnamed-4.jpg"
 
 [[gallery_item]]
   album = "images"
@@ -41,6 +37,10 @@ subtitle = ""
 [[gallery_item]]
   album = "images"
   image = "unnamed-8.jpg"
+
+[[gallery_item]]
+  album = "images"
+  image = "DSC_0441.jpg"
 
 
 +++
