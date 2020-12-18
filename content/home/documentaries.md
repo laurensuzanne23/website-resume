@@ -16,7 +16,7 @@ subtitle = ""
 ## A Peace to End All Peace
 {{< youtube A8-bVVtipPU >}}
 
-## Forgiving the Unforgivable
+## Forgiveness in the Aftermath of Genocide
 {{< youtube nBCss7q8d3Y >}}
 
 ## The Miracle on Ice
